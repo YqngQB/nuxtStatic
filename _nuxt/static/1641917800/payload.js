@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{data:{status:0,info:"未登录",data:null}}],fetch:{},mutations:void 0});
